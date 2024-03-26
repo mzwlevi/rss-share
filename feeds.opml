@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>Feeds</title>
+</head>
+<body>
+<outline title="Apps" text="Apps">
+<outline text="Reeder" htmlUrl="https://gloria.social/@rizzi" title="Reeder" xmlUrl="https://gloria.social/@rizzi.rss" type="rss" />
+<outline type="rss" text="小众软件" htmlUrl="https://www.appinn.com" xmlUrl="https://feeds.appinn.com/appinns/" title="小众软件" />
+<outline xmlUrl="https://rsshub.app/telegram/channel/AppleNuts" htmlUrl="https://t.me/s/AppleNuts" text=" Apple Nuts - Telegram Channel" type="rss" title=" Apple Nuts - Telegram Channel" />
+</outline>
+<outline title="Blogs" text="Blogs">
+<outline type="rss" text="潮流周刊" title="潮流周刊" htmlUrl="https://weekly.tw93.fun/" xmlUrl="https://weekly.tw93.fun/rss.xml" />
+</outline>
+<outline title="Code" text="Code">
+<outline xmlUrl="https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom" htmlUrl="https://github.com/SwiftOldDriver/iOS-Weekly/releases" type="rss" text="老司机周报" title="老司机周报" />
+<outline type="rss" text="赵容部落" title="赵容部落" htmlUrl="https://www.zrblog.net/" xmlUrl="https://rsshub.app/zrblog" />
+</outline>
+<outline text="Finance" title="Finance">
+<outline htmlUrl="https://t.me/s/DocOfCard" title="85.60×53.98卡粉订阅/提醒 - Telegram Channel" type="rss" text="85.60×53.98卡粉订阅/提醒 - Telegram Channel" xmlUrl="https://rsshub.app/telegram/channel/DocOfCard" />
+</outline>
+<outline text="Long Form" title="Long Form">
+<outline htmlUrl="https://sspai.com/matrix" xmlUrl="https://rsshub.app/sspai/matrix" text="少数派 -- Matrix" type="rss" title="少数派 -- Matrix" />
+<outline type="rss" xmlUrl="https://rsshub.app/sspai/index" htmlUrl="https://sspai.com" title="少数派 -- 首页" text="少数派 -- 首页" />
+</outline>
+<outline text="News" title="News">
+<outline title="36氪 - 24小时热榜" xmlUrl="https://rsshub.app/36kr/hot-list" htmlUrl="https://www.36kr.com" type="rss" text="36氪 - 24小时热榜" />
+<outline xmlUrl="https://rsshub.app/telegram/channel/NewlearnerChannel" type="rss" text="Newlearnerの自留地 - Telegram Channel" htmlUrl="https://t.me/s/NewlearnerChannel" title="Newlearnerの自留地 - Telegram Channel" />
+<outline title="爱范儿" htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" type="rss" xmlUrl="https://www.ifanr.com/feed" text="爱范儿" />
+<outline type="rss" htmlUrl="https://www.landiannews.com" xmlUrl="https://www.landiannews.com/feed" title="蓝点网" text="蓝点网" />
+<outline type="rss" htmlUrl="http://www.geekpark.net" xmlUrl="http://feed.geekpark.net/" text="极客公园" title="极客公园" />
+<outline text="虎嗅" htmlUrl="https://www.huxiu.com" title="虎嗅" xmlUrl="https://rss.huxiu.com/" type="rss" />
+</outline>
+<outline text="Product" title="Product">
+<outline htmlUrl="https://www.woshipm.com" xmlUrl="https://rsshub.app/woshipm/popular" title="人人都是产品经理" type="rss" text="人人都是产品经理" />
+</outline>
+</body>
+</opml>
